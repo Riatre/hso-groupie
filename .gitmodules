@@ -1,0 +1,3 @@
+[submodule "exploit/jbig2enc"]
+	path = exploit/jbig2enc
+	url = https://github.com/agl/jbig2enc.git
